@@ -1,0 +1,184 @@
+/*!
+ * Start Bootstrap - Logo Nav HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+.container {
+    width: 100%;
+    padding: 0px;
+}
+
+.row {
+    margin-right: 0px;
+    margin-left: 0px;
+    }
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+}
+
+
+.navbar-fixed-top .nav {
+    padding: 10px 0;
+}
+
+.navbar-fixed-top .navbar-brand {
+    padding: 0 0px;
+}
+
+
+.navbar-inverse {
+    background-color:white;
+    border-color:white;
+}
+.navbar-form
+{
+padding-top: 5px;
+}
+
+.middlepic 
+{
+	width:100%;
+	
+}
+.threeimages img
+{
+	padding:30px;
+	height: auto;
+	width: 100%;
+}
+.images
+{
+	padding-left: 140px;
+}
+.pic .col-md-12 {
+	padding-right: 0px;
+padding-left: 0px;
+}
+.discover
+{
+	padding:50px;
+}
+.discover h1
+{
+	line-height: 1.25;
+	font-weight: 300;
+color: #1A1A1A;
+}
+.discover ul li
+{
+padding: 10px;
+	list-style: none;
+
+}
+.image1
+{
+	padding-left:10px;
+}
+.imag
+{
+	padding-top:75px; 
+}
+.middletext
+{
+	background-color:#1570A6;
+}
+
+.follow
+{
+	padding:0px;
+}
+.follow h2
+{font-family: "Times New Roman", Times, serif;
+	padding-top:20px;
+	padding-left:35px;
+	color:white; 
+}
+.follow ul li
+{
+	color: white;
+	list-style: none;
+	padding: 5px;
+	line-height: 1.25;
+}
+.bluebody
+{
+	background-color: #1570A6;
+}
+.seconddiv
+{
+	margin-top: 50px;
+}
+/*.contents
+{color:white;
+	width:1000px;
+	background: rgba(0,0,0,0.3);
+
+}*/
+.pics
+{
+	height:auto;
+	width:100%;
+	padding:10px;
+	
+}
+
+.ps ul li
+{
+	list-style: none;
+	padding:5px;
+	
+}
+.ps
+{
+	margin-top:30px;
+}
+.gre
+{
+	background:#D3D3D3;
+}
+
+.pic img{
+	height: auto;
+	width: 100%;
+	}
+
+.downloads
+{
+	margin-top: 30px;
+}
+.downloads ul li
+{
+	color:#3399CC;
+	list-style: none;
+}
+.downloads h4
+{
+	margin-left: 39px;
+}
+.support
+{
+	margin-top: 30px;
+}
+.support h4
+{
+margin-left:39px; 
+}
+.support ul li
+{
+	color:#3399CC;
+	list-style: none;
+}
+.popular
+{
+	margin-top: 30px;
+}
+.popular h4
+{
+	margin-left: 39px;
+}
+.popular ul li
+{
+color:#3399CC;
+	list-style: none;	
+}

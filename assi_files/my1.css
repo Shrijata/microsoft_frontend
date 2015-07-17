@@ -1,0 +1,36 @@
+.container
+{
+    background-image:url('sunset.jpg');
+    height:800px;
+    width: 1470px;
+}
+
+.search
+{
+/*margin-right:150px;*/
+margin-top: 50px;
+/*margin-left: 50px;*/
+	padding: 40px;
+	text-align: center;
+	text-decoration:none;
+	color: red;
+	float:left;	
+	
+}
+.image 
+{
+	height:80px;
+	width:100px;
+	margin-top: 20px;
+	margin-left:20px;
+	float:left;
+	display: inline-block;
+
+}
+]
+
+ul li{
+	display: inline-block;
+	padding: 53px;
+
+}
